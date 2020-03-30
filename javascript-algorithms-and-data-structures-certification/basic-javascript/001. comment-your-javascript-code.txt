@@ -1,0 +1,5 @@
+// This is my comment
+
+/*
+  This is my block comment
+*/

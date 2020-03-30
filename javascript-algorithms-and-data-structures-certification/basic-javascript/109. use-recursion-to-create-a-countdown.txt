@@ -1,0 +1,11 @@
+// Only change code below this line
+function countdown(n){
+  if (n < 1) {
+    return [];
+  } else {
+    const myArr = countdown(n-1);
+    myArr.unshift(n);
+    return myArr;
+  }
+}
+// Only change code above this line

@@ -1,0 +1,18 @@
+var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
+function golfScore(par, strokes) {
+  // Only change code below this line
+  if (strokes === 1) {
+    return names[0];
+  } else {
+    var idx = (strokes - par) + 3;
+    if (idx < 1) {
+      idx = 1;
+    } else if (idx >= names.length) {
+      idx = names.length - 1;
+    }
+    return names[idx];
+  }
+  // Only change code above this line
+}
+
+golfScore(5, 4);
