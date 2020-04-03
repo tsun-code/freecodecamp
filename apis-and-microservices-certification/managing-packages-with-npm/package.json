@@ -1,0 +1,26 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "tsunami-code",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"freecodecamp",
+		"learn",
+		"npm"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.11.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
