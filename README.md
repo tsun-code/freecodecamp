@@ -7,7 +7,8 @@
 ##### Earn certifications.
 
 
-### <span style="color:red">Important Notes</span>
+<span style="color:red;font-size:36px">**Important Notes**</span>
+
 
 ### Important Notes
 
