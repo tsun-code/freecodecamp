@@ -7,6 +7,8 @@
 ##### Earn certifications.
 
 
+### <span style="color:red">Important Notes</span>
+
 
 
 ### Tips for myself
