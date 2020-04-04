@@ -7,6 +7,8 @@
 ##### Earn certifications.
 
 
+### <span style="color:red">Important Notes</span>
+
 ### Important Notes
 
 **Do not store any passwords or sensitive data** on your public github repositories. If you have mistakenly stored any of them, you may take reference on the following links to remove them:
