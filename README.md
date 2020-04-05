@@ -21,3 +21,7 @@
 ```
 ls -vrt | cat -n | while read n f; do mv -i "$f" "$(printf %02d $n)-$f" ; done
 ```
+
++ A great tool for renaming files in batch
+[rename — Homebrew Formulae](https://formulae.brew.sh/formula/rename)
+[Rename files in bash with Regular Expressions](https://swapps.com/blog/rename-files-in-bash-with-regular-expresions/)
